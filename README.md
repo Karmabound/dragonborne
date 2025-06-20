@@ -7,7 +7,7 @@ Keep in mind that this modpack was made for 3+ people and there's **constantly s
 - 📚 Add over **70 upgradeable spells** to your arsenal, each with their own element and damage type.
 - 🗡️ 200+ new gear items: armor sets, unique weapons, spellbooks, artifacts and gadgets.
 - 🎇 Major weapon and armor customization with affixes, gem slots and unique passives!
-- ⚔️ Progressively increasing game difficulty over time, mobs grow stronger over time and the further away from spawn you are.
+- ⚔️ Progressively increasing game difficulty over time, mobs grow stronger over time.
 - 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with 500+ new structures, all fantasy themed!
 - 🏹 Hundreds of new enemies: elemental dragons, mythical beasts or abstract creatures beyond your human comprehension!
 - 🏆 Built-in multiplayer hosting with World Host, no need to buy a dedicated server for you and your friends!
